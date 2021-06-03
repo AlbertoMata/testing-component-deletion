@@ -38,7 +38,7 @@ this is the case once you run the command. Then you can delete it manually or
 adding the type member to the file `destructiveChanges.xml` and executing the
 previous command again.
 
-## Considerations added 
+## Considerations
 
 All the commands listed here were executed with `sfdx-cli` version
 `sfdx-cli/7.99.0 wsl-x64 node-v12.22`. In order to run these commands in other
