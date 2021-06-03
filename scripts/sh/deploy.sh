@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 sfdx force:source:convert --outputdir metadata-output-dir
 zip -r changes-set.zip metadata-output-dir/
