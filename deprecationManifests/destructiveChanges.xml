@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>TestingObjectController</members>
+        <members>TestingObjectControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ExtraObject__c.ExtraField__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>TestingObject__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>51.0</version>
+</Package>
